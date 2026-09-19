@@ -1,6 +1,6 @@
 # Shared and Idiosyncratic Principal Measures for Multivariate Point Processes
 
-Reproducibility repository for the manuscript **“Shared and Idiosyncratic Principal Measures for Multivariate Point Processes”** by Essoham Ali and Sophie Dabo-Niang.
+Reproducibility repository for the manuscript **“Shared and Idiosyncratic Principal Measures for Multivariate Point Processes”** by Essoham Ali.
 
 The repository reproduces the numerical study (Section 7), the Allen Brain Observatory Neuropixels application (Section 8), and the numerical results reported in the Supporting Information (Tables S1–S5).
 
