@@ -52,10 +52,6 @@
 ./results/application/tables/trial_counts.csv
 ./run_all.R
 ./simulation/figures/.gitkeep
-./simulation/figures/Fig_loading_simplex.png
-./simulation/figures/Fig_recovery_map.png
-./simulation/figures/Fig_rootn_collapse.png
-./simulation/figures/Fig_spectral_signature_balanced.png
 ./simulation/figures/Figure1_structural_decomposition_recovery.pdf
 ./simulation/figures/Figure2_first_order_convergence.pdf
 ./simulation/figures/Figure3_principal_measure_recovery.pdf
