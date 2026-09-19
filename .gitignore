@@ -1,0 +1,29 @@
+# R session / IDE
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Large regenerable Monte Carlo objects
+simulation/results/raw/*.rds
+!simulation/results/raw/.gitkeep
+simulation/results/robustness/*.rds
+results/application/*.rds
+
+# Full Allen reconstruction products (regenerable; frozen CSVs are in application/data/)
+Allen_794812542_final_data/
+*.xlsx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or derived dataset, please cite the accompanying article and this repository."
+title: "Reproducibility repository for Shared and Idiosyncratic Principal Measures for Multivariate Point Processes"
+type: software
+authors:
+  - family-names: Ali
+    given-names: Essoham
+  - family-names: Dabo-Niang
+    given-names: Sophie
+year: 2026
+repository-code: "https://github.com/essohali/shared-idiosyncratic-principal-measures"
+license: MIT
