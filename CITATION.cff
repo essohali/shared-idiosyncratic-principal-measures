@@ -5,8 +5,6 @@ type: software
 authors:
   - family-names: Ali
     given-names: Essoham
-  - family-names: Dabo-Niang
-    given-names: Sophie
 year: 2026
 repository-code: "https://github.com/essohali/shared-idiosyncratic-principal-measures"
 license: MIT
