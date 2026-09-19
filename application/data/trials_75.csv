@@ -1,0 +1,976 @@
+stimulus_presentation_id,start_time,stop_time,stimulus_name,stimulus_block,temporal_frequency,color,mask,opacity,phase,size,units,stimulus_index,orientation,spatial_frequency,contrast,tags,timeseries,stimulus_duration,replicate_id,analysis_window_start_relative,analysis_window_end_relative
+33,3590.925881637856,3592.927531637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40372), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001649999999245,1,0,2
+36,3599.933368168179,3601.935018168179,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40375), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001650000000154,2,0,2
+46,3629.958478168177,3631.960198168179,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40385), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001720000001114,3,0,2
+53,3650.976061637856,3652.977731637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40392), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000000104,4,0,2
+55,3656.981071637857,3658.982751637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40394), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001679999998942,5,0,2
+79,3729.041301637856,3731.042981637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40418), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,6,0,2
+95,3777.081451637856,3779.083131637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40434), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001679999999851,7,0,2
+96,3780.083968168179,3782.085628168179,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40435), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001659999999902,8,0,2
+108,3816.114118168177,3818.115748168179,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40447), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001630000001569,9,0,2
+119,3849.141691637856,3851.143361637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40458), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000000104,10,0,2
+125,3867.156741637856,3869.158421637857,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40464), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000001215,11,0,2
+129,3879.166791637857,3881.168451637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40468), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001659999998992,12,0,2
+139,3909.191881637856,3911.193551637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40478), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000000104,13,0,2
+140,3912.194418168177,3914.196098168179,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40479), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000001215,14,0,2
+149,3939.216981637856,3941.218651637857,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40488), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000001013,15,0,2
+150,3942.219518168179,3944.221118168179,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40489), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001600000000053,16,0,2
+155,3957.232041637856,3959.233711637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40494), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000000104,17,0,2
+164,3984.254608168178,3986.256318168178,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40503), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001710000000003,18,0,2
+165,3987.257141637856,3989.258811637857,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40504), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000001013,19,0,2
+185,4047.307321637856,4049.308991637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40524), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000000104,20,0,2
+194,4074.329928168178,4076.331598168179,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40533), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000001013,21,0,2
+203,4101.352491637857,4103.354171637857,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40542), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001679999999396,22,0,2
+214,4134.380088168178,4136.381798168178,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40553), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001709999999548,23,0,2
+226,4170.410248168178,4172.411888168178,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40565), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001639999999497,24,0,2
+234,4194.430318168178,4196.431998168178,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40573), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,25,0,2
+239,4209.442841637857,4211.444521637857,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40578), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,26,0,2
+240,4212.445338168178,4214.447048168178,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40579), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001710000000458,27,0,2
+249,4239.467941637857,4241.469621637857,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40588), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,28,0,2
+252,4248.475478168178,4250.477168168178,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40591), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001690000000053,29,0,2
+280,4332.545778168178,4334.547408168178,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40619), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.00162999999975,30,0,2
+285,4347.558271637857,4349.559951637857,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40624), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,31,0,2
+289,4359.568321637857,4361.570001637857,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40628), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001679999999396,32,0,2
+297,4383.588401637857,4385.590071637856,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40636), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.00166999999874,33,0,2
+298,4386.590938168178,4388.592588168178,drifting_gratings_75_repeats,5,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40637), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001650000000154,34,0,2
+304,6206.111688168177,6208.113328168178,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40644), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001640000000407,35,0,2
+307,6215.119211637856,6217.120871637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40647), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001659999999902,36,0,2
+310,6224.126728168178,6226.128398168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40650), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001669999999649,37,0,2
+321,6257.154331637857,6259.156011637857,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40661), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,38,0,2
+336,6302.191998168178,6304.193648168178,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40676), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001650000000154,39,0,2
+340,6314.202058168177,6316.203698168178,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40680), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001640000000407,40,0,2
+343,6323.209541637856,6325.211221637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40683), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,41,0,2
+345,6329.214561637857,6331.216231637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40685), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001669999999649,42,0,2
+352,6350.232138168178,6352.233778168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40692), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001639999999497,43,0,2
+357,6365.244681637856,6367.246361637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40697), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,44,0,2
+362,6380.257228168178,6382.258908168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40702), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001679999999396,45,0,2
+363,6383.259721637856,6385.261401637857,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40703), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,46,0,2
+364,6386.262268168178,6388.263908168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40704), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001639999999497,47,0,2
+369,6401.274791637857,6403.276471637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40709), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001679999999396,48,0,2
+375,6419.289851637856,6421.291521637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40715), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001669999999649,49,0,2
+376,6422.292398168178,6424.294048168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40716), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001649999999245,50,0,2
+382,6440.307418168178,6442.309088168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40722), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001669999999649,51,0,2
+395,6479.340041637856,6481.341721637857,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40735), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,52,0,2
+402,6500.357608168178,6502.359278168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40742), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001669999999649,53,0,2
+407,6515.370151637856,6517.371841637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40747), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001690000000053,54,0,2
+409,6521.375181637856,6523.376851637857,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40749), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000000559,55,0,2
+416,6542.392728168177,6544.394408168178,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40756), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,56,0,2
+431,6587.430391637857,6589.432061637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40771), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001669999999649,57,0,2
+443,6623.460501637856,6625.462191637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40783), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001690000000053,58,0,2
+447,6635.470531637857,6637.472211637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40787), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001679999999396,59,0,2
+449,6641.475571637857,6643.477231637857,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40789), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001659999999902,60,0,2
+464,6686.513218168177,6688.514858168178,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40804), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001640000000407,61,0,2
+468,6698.523228168177,6700.524858168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40808), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.00162999999975,62,0,2
+475,6719.540811637857,6721.542491637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40815), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001679999999396,63,0,2
+486,6752.568418168177,6754.570038168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40826), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001620000000003,64,0,2
+496,6782.593538168177,6784.595168168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40836), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.00162999999975,65,0,2
+510,6824.628698168178,6826.630328168178,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40850), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.00162999999975,66,0,2
+540,6914.703938168177,6916.705588168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40880), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001650000000154,67,0,2
+542,6920.708958168178,6922.710598168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40882), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001639999999497,68,0,2
+551,6947.731541637856,6949.733211637857,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40891), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000000559,69,0,2
+554,6956.739068168177,6958.740758168177,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40894), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001690000000053,70,0,2
+561,6977.756631637856,6979.758311637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40901), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001680000000306,71,0,2
+562,6980.759168168178,6982.760828168178,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40902), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001659999999902,72,0,2
+569,7001.776721637856,7003.778381637856,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40909), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001659999999902,73,0,2
+590,7064.829408168178,7066.831068168178,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40930), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001659999999902,74,0,2
+599,7091.852001637856,7093.853671637857,drifting_gratings_75_repeats,6,2,"[1.0, 1.0, 1.0]",,1,"[14037.96666667, 14037.96666667]","[250.0, 250.0]",deg,2,0,0.04,0.8,['stimulus_time_interval'],"[TimeSeriesReference(idx_start=np.int32(40939), count=np.int32(1), timeseries=timestamps pynwb.base.TimeSeries at 0x1599479992336
+Fields:
+  comments: no comments
+  conversion: 1.0
+  data: <HDF5 dataset ""data"": shape (77361,), type ""<f8"">
+  description: no description
+  interval: 1
+  offset: 0.0
+  resolution: -1.0
+  timestamps: <HDF5 dataset ""timestamps"": shape (77361,), type ""<f8"">
+  timestamps_unit: seconds
+  unit: s
+)]",2.001670000000559,75,0,2

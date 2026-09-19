@@ -1,0 +1,29 @@
+field,value
+dataset,Allen Brain Observatory Visual Coding Neuropixels
+dandiset_id,000022
+dandiset_version,0.251116.2247
+session_id,794812542
+asset_path,sub-774672354/sub-774672354_ses-794812542.nwb
+asset_id,64ea7bdf-dd18-4831-ab01-b9a035a3da2f
+remote_asset_size_bytes,2589149988
+access_method,remote DANDI/S3 NWB streaming; complete NWB not downloaded
+areas,"VISp, VISl, VISrl, VISal, VISam"
+q,5
+quality_rule,amplitude_cutoff < 0.1; presence_ratio > 0.9; isi_violations < 0.5
+unit_selection_rule,40 quality units per area; ascending unit_id; selection independent of stimulus response/covariance
+n_units_per_area,40
+n_selected_units_total,200
+stimulus_interval_table,drifting_gratings_75_repeats_presentations
+orientation_deg,0
+n_trials,75
+analysis_window_seconds,"[0.0, 2.0]"
+n_spike_event_rows,200674
+contrast_values_in_selected_trials,0.8
+temporal_frequency_values_in_selected_trials,2.0
+spatial_frequency_values_in_selected_trials,0.04
+scientific_note,The five-area design reflects actual anatomical coverage in this NWB; VISpm was absent and is not included.
+VISp_quality_units_available,201
+VISl_quality_units_available,105
+VISrl_quality_units_available,96
+VISal_quality_units_available,49
+VISam_quality_units_available,118
